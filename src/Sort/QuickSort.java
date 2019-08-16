@@ -14,15 +14,15 @@ public class QuickSort<T extends Comparable<T>> extends Sort<T> {
 
     @Override
     public void sort(T[] nums) {
-        shuffle(nums);
+        //shuffle(nums);
         sort(nums,0,nums.length - 1);
     }
 
-    private void shuffle(T[] nums) {
-        List<Comparable> list = (List<Comparable>) Arrays.asList(nums);
-        Collections.shuffle(list);
-        list.toArray();
-    }
+//    private void shuffle(T[] nums) {
+//        List<Comparable> list = (List<Comparable>) Arrays.asList(nums);
+//        Collections.shuffle(list);
+//        list.toArray();
+//    }
 
     protected void sort(T[] nums, int l, int h) {
         if (h <= l) {
