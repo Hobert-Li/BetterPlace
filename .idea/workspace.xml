@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f91c54a8-dc01-4258-9f62-4f986dd51d56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/30to39/_37_Serialize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/30to39/_38_Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/30to39/_39_MoreThanHalfNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/40to49/_41_2_FirstAppearingOnce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/40to49/_41_2_FirstAppearingOnce.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,20 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/40to49/_41_1_GetMedian.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/40to49/_41_2_FirstAppearingOnce.java">
+        <entry file="file://$PROJECT_DIR$/src/40to49/_45_PrintMinNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+            <state relative-caret-position="465">
+              <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -53,6 +40,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>length</find>
+      <find>ThreadLocal</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -67,12 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/10to19/_10_1_Fibonacci.java" />
-        <option value="$PROJECT_DIR$/src/10to19/_10_2_RecCover.java" />
-        <option value="$PROJECT_DIR$/src/10to19/_10_2_RectCover.java" />
-        <option value="$PROJECT_DIR$/src/10to19/_10_3_JumpFloor.java" />
-        <option value="$PROJECT_DIR$/src/10to19/_10_4_JumpFloorII.java" />
-        <option value="$PROJECT_DIR$/src/10to19/_11_minNumberInRotateArray.java" />
         <option value="$PROJECT_DIR$/src/10to19/test.java" />
         <option value="$PROJECT_DIR$/src/10to19/_15_NumberOf1.java" />
         <option value="$PROJECT_DIR$/src/10to19/_16_Power.java" />
@@ -118,6 +100,12 @@
         <option value="$PROJECT_DIR$/src/40to49/_40_GetLeastNumbers.java" />
         <option value="$PROJECT_DIR$/src/40to49/_41_1_GetMedian.java" />
         <option value="$PROJECT_DIR$/src/40to49/_41_2_FirstAppearingOnce.java" />
+        <option value="$PROJECT_DIR$/src/test/ThreadId.java" />
+        <option value="$PROJECT_DIR$/src/test/MyThreadLocal.java" />
+        <option value="$PROJECT_DIR$/src/40to49/_42_FindGreatestSumOfSubArray.java" />
+        <option value="$PROJECT_DIR$/src/40to49/_43_NumberOf1Between1AndN_Solution.java" />
+        <option value="$PROJECT_DIR$/src/40to49/_44_getDigitAtIndex.java" />
+        <option value="$PROJECT_DIR$/src/40to49/_45_PrintMinNumber.java" />
       </list>
     </option>
   </component>
@@ -131,8 +119,8 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
-    <option name="width" value="1939" />
-    <option name="height" value="1049" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -192,23 +180,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._41_1_GetMedian">
-    <configuration name="_33_VerifySquenceOfBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_33_VerifySquenceOfBST" />
-      <module name="GetOffer" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_38_Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_38_Permutation" />
-      <module name="GetOffer" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_39_MoreThanHalfNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_39_MoreThanHalfNum" />
+  <component name="RunManager" selected="Application._45_PrintMinNumber">
+    <configuration name="MyThreadLocal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyThreadLocal" />
       <module name="GetOffer" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -221,8 +195,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
+    <configuration name="_41_2_FirstAppearingOnce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_41_2_FirstAppearingOnce" />
+      <module name="GetOffer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_42_FindGreatestSumOfSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_42_FindGreatestSumOfSubArray" />
+      <module name="GetOffer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_45_PrintMinNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_45_PrintMinNumber" />
       <module name="GetOffer" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -230,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._45_PrintMinNumber" />
+        <item itemvalue="Application._42_FindGreatestSumOfSubArray" />
+        <item itemvalue="Application.MyThreadLocal" />
+        <item itemvalue="Application._41_2_FirstAppearingOnce" />
         <item itemvalue="Application._41_1_GetMedian" />
-        <item itemvalue="Application._39_MoreThanHalfNum" />
-        <item itemvalue="Application._38_Permutation" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application._33_VerifySquenceOfBST" />
       </list>
     </recent_temporary>
   </component>
@@ -269,24 +257,26 @@
       <workItem from="1565505993747" duration="7016000" />
       <workItem from="1565789277698" duration="2450000" />
       <workItem from="1565833835772" duration="9774000" />
+      <workItem from="1565918425182" duration="750000" />
+      <workItem from="1565947023106" duration="4817000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80723000" />
+    <option name="totallyTimeSpent" value="86290000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1802949" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18498659" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28611898" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4362606" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21246459" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.509915" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -375,6 +365,12 @@
           <properties />
           <option name="timeStamp" value="36" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/MyThreadLocal.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -388,85 +384,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/10to19/_19_match.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/20to29/_20_isNumeric.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/20to29/_23_EntryNodeOfLoop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-          <folding>
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/20to29/_22_FindKthToTail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" selection-start-line="9" selection-end-line="20" selection-end-column="5" />
-          <folding>
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/20to29/_24_ReverseList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
-          <folding>
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/20to29/_25_Merge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-          <folding>
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/20to29/_27_Mirror.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/20to29/_26_HasSubtree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="545">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/20to29/_28_isSymmetrical.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="33" column="65" selection-start-line="33" selection-start-column="65" selection-end-line="33" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../NTES/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -856,10 +773,230 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sort/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sort/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="e#758#759#0" expanded="true" />
+            <element signature="e#808#809#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sort/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/Sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/JDK1.8/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="78" column="1" lean-forward="true" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
+          <folding>
+            <element signature="docComment;field#serialVersionUID#0;class#StringBuilder#0" />
+            <element signature="docComment;method#StringBuilder#0;class#StringBuilder#0" />
+            <element signature="docComment;method#StringBuilder#1;class#StringBuilder#0" />
+            <element signature="docComment;method#StringBuilder#3;class#StringBuilder#0" />
+            <element signature="method#append#1;class#StringBuilder#0" />
+            <element signature="docComment;method#append#2;class#StringBuilder#0" />
+            <element signature="method#append#3;class#StringBuilder#0" />
+            <element signature="docComment;method#append#4;class#StringBuilder#0" />
+            <element signature="method#append#4;class#StringBuilder#0" />
+            <element signature="method#append#5;class#StringBuilder#0" />
+            <element signature="docComment;method#append#6;class#StringBuilder#0" />
+            <element signature="method#append#6;class#StringBuilder#0" />
+            <element signature="method#append#7;class#StringBuilder#0" />
+            <element signature="method#append#8;class#StringBuilder#0" />
+            <element signature="method#append#9;class#StringBuilder#0" />
+            <element signature="method#append#10;class#StringBuilder#0" />
+            <element signature="method#append#11;class#StringBuilder#0" />
+            <element signature="method#append#12;class#StringBuilder#0" />
+            <element signature="docComment;method#appendCodePoint#0;class#StringBuilder#0" />
+            <element signature="method#appendCodePoint#0;class#StringBuilder#0" />
+            <element signature="docComment;method#delete#0;class#StringBuilder#0" />
+            <element signature="method#delete#0;class#StringBuilder#0" />
+            <element signature="docComment;method#deleteCharAt#0;class#StringBuilder#0" />
+            <element signature="method#deleteCharAt#0;class#StringBuilder#0" />
+            <element signature="docComment;method#replace#0;class#StringBuilder#0" />
+            <element signature="method#replace#0;class#StringBuilder#0" />
+            <element signature="docComment;method#insert#0;class#StringBuilder#0" />
+            <element signature="method#insert#0;class#StringBuilder#0" />
+            <element signature="docComment;method#insert#1;class#StringBuilder#0" />
+            <element signature="method#insert#1;class#StringBuilder#0" />
+            <element signature="docComment;method#insert#2;class#StringBuilder#0" />
+            <element signature="method#insert#2;class#StringBuilder#0" />
+            <element signature="docComment;method#insert#3;class#StringBuilder#0" />
+            <element signature="method#insert#3;class#StringBuilder#0" />
+            <element signature="docComment;method#insert#4;class#StringBuilder#0" />
+            <element signature="method#insert#4;class#StringBuilder#0" />
+            <element signature="docComment;method#insert#5;class#StringBuilder#0" />
+            <element signature="method#insert#5;class#StringBuilder#0" />
+            <element signature="docComment;method#insert#6;class#StringBuilder#0" />
+            <element signature="method#insert#6;class#StringBuilder#0" />
+            <element signature="docComment;method#insert#7;class#StringBuilder#0" />
+            <element signature="method#insert#7;class#StringBuilder#0" />
+            <element signature="docComment;method#insert#8;class#StringBuilder#0" />
+            <element signature="method#insert#8;class#StringBuilder#0" />
+            <element signature="docComment;method#insert#9;class#StringBuilder#0" />
+            <element signature="method#insert#9;class#StringBuilder#0" />
+            <element signature="docComment;method#insert#10;class#StringBuilder#0" />
+            <element signature="method#insert#10;class#StringBuilder#0" />
+            <element signature="docComment;method#insert#11;class#StringBuilder#0" />
+            <element signature="method#insert#11;class#StringBuilder#0" />
+            <element signature="method#writeObject#0;class#StringBuilder#0" />
+            <element signature="docComment;method#readObject#0;class#StringBuilder#0" />
+            <element signature="method#readObject#0;class#StringBuilder#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/30to39/_36_Convert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="28" column="41" lean-forward="true" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/JDK1.8/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="1684" column="15" selection-start-line="1684" selection-start-column="15" selection-end-line="1684" selection-end-column="15" />
+          <folding>
+            <element signature="e#66121#66122#0" expanded="true" />
+            <element signature="e#66159#66160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/30to39/_37_Serialize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/30to39/_39_MoreThanHalfNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="31" column="41" lean-forward="true" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/30to39/_38_Permutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="38" column="32" lean-forward="true" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#216#224#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/40to49/_40_GetLeastNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="79" column="23" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#360#369#0" expanded="true" />
+            <element signature="e#1718#1727#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/JDK1.8/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="109" column="4" lean-forward="true" selection-start-line="109" selection-start-column="4" selection-end-line="109" selection-end-column="4" />
+          <folding>
+            <element signature="docComment;class#Comparator#0" />
+            <element signature="docComment;method#equals#0;class#Comparator#0" />
+            <element signature="docComment;method#reversed#0;class#Comparator#0" />
+            <element signature="docComment;method#thenComparing#0;class#Comparator#0" />
+            <element signature="method#thenComparing#0;class#Comparator#0" />
+            <element signature="e#9102#9225#0" />
+            <element signature="docComment;method#thenComparing#1;class#Comparator#0" />
+            <element signature="method#thenComparing#1;class#Comparator#0" />
+            <element signature="docComment;method#thenComparing#2;class#Comparator#0" />
+            <element signature="method#thenComparing#2;class#Comparator#0" />
+            <element signature="docComment;method#thenComparingInt#0;class#Comparator#0" />
+            <element signature="method#thenComparingInt#0;class#Comparator#0" />
+            <element signature="docComment;method#thenComparingLong#0;class#Comparator#0" />
+            <element signature="method#thenComparingLong#0;class#Comparator#0" />
+            <element signature="docComment;method#thenComparingDouble#0;class#Comparator#0" />
+            <element signature="method#thenComparingDouble#0;class#Comparator#0" />
+            <element signature="docComment;method#reverseOrder#0;class#Comparator#0" />
+            <element signature="docComment;method#naturalOrder#0;class#Comparator#0" />
+            <element signature="method#naturalOrder#0;class#Comparator#0" />
+            <element signature="docComment;method#nullsFirst#0;class#Comparator#0" />
+            <element signature="method#nullsFirst#0;class#Comparator#0" />
+            <element signature="docComment;method#nullsLast#0;class#Comparator#0" />
+            <element signature="method#nullsLast#0;class#Comparator#0" />
+            <element signature="docComment;method#comparing#0;class#Comparator#0" />
+            <element signature="method#comparing#0;class#Comparator#0" />
+            <element signature="docComment;method#comparing#1;class#Comparator#0" />
+            <element signature="method#comparing#1;class#Comparator#0" />
+            <element signature="docComment;method#comparingInt#0;class#Comparator#0" />
+            <element signature="method#comparingInt#0;class#Comparator#0" />
+            <element signature="docComment;method#comparingLong#0;class#Comparator#0" />
+            <element signature="method#comparingLong#0;class#Comparator#0" />
+            <element signature="docComment;method#comparingDouble#0;class#Comparator#0" />
+            <element signature="method#comparingDouble#0;class#Comparator#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/JDK1.8/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="146" column="11" selection-start-line="146" selection-start-column="11" selection-end-line="146" selection-end-column="11" />
+          <folding>
+            <element signature="e#5256#5257#0" expanded="true" />
+            <element signature="e#5314#5315#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/40to49/_41_2_FirstAppearingOnce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/40to49/_41_1_GetMedian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://D:/JDK/JDK1.8/src.zip!/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="171" column="46" lean-forward="true" selection-start-line="171" selection-start-column="46" selection-end-line="171" selection-end-column="46" />
+        <state relative-caret-position="341">
+          <caret line="187" column="62" selection-start-line="187" selection-start-column="62" selection-end-line="187" selection-end-column="62" />
           <folding>
             <element signature="docComment;class#Thread#0" />
             <element signature="e#4517#4582#0" />
@@ -872,7 +1009,6 @@
             <element signature="e#5204#5249#0" />
             <element signature="e#5299#5354#0" />
             <element signature="e#5424#5466#0" />
-            <element signature="e#5608#5715#0" />
             <element signature="e#5773#5914#0" />
             <element signature="e#5983#6193#0" />
             <element signature="e#6227#6309#0" />
@@ -1084,67 +1220,91 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://D:/JDK/JDK1.8/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="175" column="21" selection-start-line="175" selection-start-column="21" selection-end-line="175" selection-end-column="21" />
+          <folding>
+            <element signature="e#4504#4505#0" expanded="true" />
+            <element signature="e#4572#4573#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/JDK1.8/src.zip!/java/lang/ref/WeakReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/JDK1.8/src.zip!/java/lang/ref/Reference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="201" column="23" selection-start-line="201" selection-start-column="23" selection-end-line="201" selection-end-column="23" />
+          <folding>
+            <element signature="e#7391#7392#0" expanded="true" />
+            <element signature="e#7427#7428#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://D:/JDK/JDK1.8/src.zip!/java/lang/ThreadLocal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="297" column="32" selection-start-line="297" selection-start-column="32" selection-end-line="297" selection-end-column="32" />
+        <state relative-caret-position="245">
+          <caret line="342" column="36" lean-forward="true" selection-start-line="342" selection-start-column="36" selection-end-line="342" selection-end-column="36" />
           <folding>
             <element signature="docComment;class#ThreadLocal#0" />
             <element signature="docComment;field#threadLocalHashCode#0;class#ThreadLocal#0" />
             <element signature="docComment;field#nextHashCode#0;class#ThreadLocal#0" />
             <element signature="docComment;field#HASH_INCREMENT#0;class#ThreadLocal#0" />
             <element signature="docComment;method#nextHashCode#0;class#ThreadLocal#0" />
+            <element signature="e#3276#3277#0" expanded="true" />
+            <element signature="e#3337#3338#0" expanded="true" />
             <element signature="docComment;method#initialValue#0;class#ThreadLocal#0" />
+            <element signature="e#4309#4310#0" expanded="true" />
+            <element signature="e#4336#4337#0" expanded="true" />
             <element signature="docComment;method#withInitial#0;class#ThreadLocal#0" />
-            <element signature="method#withInitial#0;class#ThreadLocal#0" />
             <element signature="docComment;method#ThreadLocal#0;class#ThreadLocal#0" />
-            <element signature="method#ThreadLocal#0;class#ThreadLocal#0" />
             <element signature="docComment;method#get#0;class#ThreadLocal#0" />
-            <element signature="method#get#0;class#ThreadLocal#0" />
-            <element signature="e#5542#5770#1" />
-            <element signature="e#5628#5760#1" />
             <element signature="docComment;method#setInitialValue#0;class#ThreadLocal#0" />
-            <element signature="method#setInitialValue#0;class#ThreadLocal#0" />
             <element signature="docComment;method#set#0;class#ThreadLocal#0" />
-            <element signature="method#set#0;class#ThreadLocal#0" />
             <element signature="docComment;method#remove#0;class#ThreadLocal#0" />
             <element signature="method#remove#0;class#ThreadLocal#0" />
             <element signature="docComment;method#getMap#0;class#ThreadLocal#0" />
+            <element signature="e#7765#7766#0" expanded="true" />
+            <element signature="e#7802#7803#0" expanded="true" />
             <element signature="docComment;method#createMap#0;class#ThreadLocal#0" />
+            <element signature="e#8068#8069#0" expanded="true" />
+            <element signature="e#8137#8138#0" expanded="true" />
             <element signature="docComment;method#createInheritedMap#0;class#ThreadLocal#0" />
             <element signature="docComment;method#childValue#0;class#ThreadLocal#0" />
             <element signature="docComment;class#SuppliedThreadLocal#0;class#ThreadLocal#0" />
-            <element signature="class#SuppliedThreadLocal#0;class#ThreadLocal#0" />
+            <element signature="e#9327#9328#0" expanded="true" />
+            <element signature="e#9399#9400#0" expanded="true" />
             <element signature="docComment;class#ThreadLocalMap#0;class#ThreadLocal#0" />
             <element signature="docComment;class#Entry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
-            <element signature="class#Entry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
-            <element signature="docComment;field#value#0;class#Entry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
-            <element signature="method#Entry#0;class#Entry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
             <element signature="docComment;field#INITIAL_CAPACITY#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
             <element signature="docComment;field#table#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
             <element signature="docComment;field#size#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
             <element signature="docComment;field#threshold#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
             <element signature="docComment;method#setThreshold#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
+            <element signature="e#11458#11459#0" expanded="true" />
+            <element signature="e#11505#11506#0" expanded="true" />
             <element signature="docComment;method#nextIndex#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
             <element signature="docComment;method#prevIndex#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
             <element signature="docComment;method#ThreadLocalMap#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
-            <element signature="method#ThreadLocalMap#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
             <element signature="docComment;method#ThreadLocalMap#1;class#ThreadLocalMap#0;class#ThreadLocal#0" />
             <element signature="method#ThreadLocalMap#1;class#ThreadLocalMap#0;class#ThreadLocal#0" />
             <element signature="e#12918#13575#1" />
             <element signature="e#12993#13561#1" />
             <element signature="e#13160#13543#1" />
             <element signature="docComment;method#getEntry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
-            <element signature="method#getEntry#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
             <element signature="docComment;method#getEntryAfterMiss#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
             <element signature="method#getEntryAfterMiss#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
             <element signature="e#14890#15174#1" />
             <element signature="docComment;method#set#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
-            <element signature="method#set#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
             <element signature="e#15456#15514#0" />
-            <element signature="e#15941#16250#1" />
-            <element signature="e#16018#16102#1" />
-            <element signature="e#16135#16236#1" />
             <element signature="docComment;method#remove#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
             <element signature="method#remove#0;class#ThreadLocalMap#0;class#ThreadLocal#0" />
             <element signature="e#16766#16938#1" />
@@ -1183,226 +1343,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sort/Sort.java">
+    <entry file="file://$PROJECT_DIR$/src/test/MyThreadLocal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        <state relative-caret-position="19">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
           <folding>
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#188#416#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#888#889#0" expanded="true" />
+            <element signature="e#927#928#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sort/HeapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <element signature="e#758#759#0" expanded="true" />
-            <element signature="e#808#809#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sort/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sort/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/JDK/JDK1.8/src.zip!/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="78" column="1" lean-forward="true" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
-          <folding>
-            <element signature="docComment;field#serialVersionUID#0;class#StringBuilder#0" />
-            <element signature="docComment;method#StringBuilder#0;class#StringBuilder#0" />
-            <element signature="docComment;method#StringBuilder#1;class#StringBuilder#0" />
-            <element signature="docComment;method#StringBuilder#3;class#StringBuilder#0" />
-            <element signature="method#append#1;class#StringBuilder#0" />
-            <element signature="docComment;method#append#2;class#StringBuilder#0" />
-            <element signature="method#append#3;class#StringBuilder#0" />
-            <element signature="docComment;method#append#4;class#StringBuilder#0" />
-            <element signature="method#append#4;class#StringBuilder#0" />
-            <element signature="method#append#5;class#StringBuilder#0" />
-            <element signature="docComment;method#append#6;class#StringBuilder#0" />
-            <element signature="method#append#6;class#StringBuilder#0" />
-            <element signature="method#append#7;class#StringBuilder#0" />
-            <element signature="method#append#8;class#StringBuilder#0" />
-            <element signature="method#append#9;class#StringBuilder#0" />
-            <element signature="method#append#10;class#StringBuilder#0" />
-            <element signature="method#append#11;class#StringBuilder#0" />
-            <element signature="method#append#12;class#StringBuilder#0" />
-            <element signature="docComment;method#appendCodePoint#0;class#StringBuilder#0" />
-            <element signature="method#appendCodePoint#0;class#StringBuilder#0" />
-            <element signature="docComment;method#delete#0;class#StringBuilder#0" />
-            <element signature="method#delete#0;class#StringBuilder#0" />
-            <element signature="docComment;method#deleteCharAt#0;class#StringBuilder#0" />
-            <element signature="method#deleteCharAt#0;class#StringBuilder#0" />
-            <element signature="docComment;method#replace#0;class#StringBuilder#0" />
-            <element signature="method#replace#0;class#StringBuilder#0" />
-            <element signature="docComment;method#insert#0;class#StringBuilder#0" />
-            <element signature="method#insert#0;class#StringBuilder#0" />
-            <element signature="docComment;method#insert#1;class#StringBuilder#0" />
-            <element signature="method#insert#1;class#StringBuilder#0" />
-            <element signature="docComment;method#insert#2;class#StringBuilder#0" />
-            <element signature="method#insert#2;class#StringBuilder#0" />
-            <element signature="docComment;method#insert#3;class#StringBuilder#0" />
-            <element signature="method#insert#3;class#StringBuilder#0" />
-            <element signature="docComment;method#insert#4;class#StringBuilder#0" />
-            <element signature="method#insert#4;class#StringBuilder#0" />
-            <element signature="docComment;method#insert#5;class#StringBuilder#0" />
-            <element signature="method#insert#5;class#StringBuilder#0" />
-            <element signature="docComment;method#insert#6;class#StringBuilder#0" />
-            <element signature="method#insert#6;class#StringBuilder#0" />
-            <element signature="docComment;method#insert#7;class#StringBuilder#0" />
-            <element signature="method#insert#7;class#StringBuilder#0" />
-            <element signature="docComment;method#insert#8;class#StringBuilder#0" />
-            <element signature="method#insert#8;class#StringBuilder#0" />
-            <element signature="docComment;method#insert#9;class#StringBuilder#0" />
-            <element signature="method#insert#9;class#StringBuilder#0" />
-            <element signature="docComment;method#insert#10;class#StringBuilder#0" />
-            <element signature="method#insert#10;class#StringBuilder#0" />
-            <element signature="docComment;method#insert#11;class#StringBuilder#0" />
-            <element signature="method#insert#11;class#StringBuilder#0" />
-            <element signature="method#writeObject#0;class#StringBuilder#0" />
-            <element signature="docComment;method#readObject#0;class#StringBuilder#0" />
-            <element signature="method#readObject#0;class#StringBuilder#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/30to39/_36_Convert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="28" column="41" lean-forward="true" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/JDK/JDK1.8/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="1684" column="15" selection-start-line="1684" selection-start-column="15" selection-end-line="1684" selection-end-column="15" />
-          <folding>
-            <element signature="e#66121#66122#0" expanded="true" />
-            <element signature="e#66159#66160#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/30to39/_37_Serialize.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="35" column="37" selection-start-line="35" selection-start-column="37" selection-end-line="35" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/30to39/_39_MoreThanHalfNum.java">
+    <entry file="file://$PROJECT_DIR$/src/test/ThreadId.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
-          <caret line="31" column="41" lean-forward="true" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/30to39/_38_Permutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="38" column="32" lean-forward="true" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#216#224#0" expanded="true" />
+            <element signature="e#306#455#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/40to49/_40_GetLeastNumbers.java">
+    <entry file="file://$PROJECT_DIR$/src/40to49/_42_FindGreatestSumOfSubArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="313">
-          <caret line="79" column="23" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#360#369#0" expanded="true" />
-            <element signature="e#1718#1727#0" expanded="true" />
-          </folding>
+          <caret line="26" column="69" selection-start-line="26" selection-start-column="69" selection-end-line="26" selection-end-column="69" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/JDK/JDK1.8/src.zip!/java/util/Comparator.java">
+    <entry file="file://$PROJECT_DIR$/src/40to49/_43_NumberOf1Between1AndN_Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/40to49/_44_getDigitAtIndex.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
-          <caret line="109" column="4" lean-forward="true" selection-start-line="109" selection-start-column="4" selection-end-line="109" selection-end-column="4" />
-          <folding>
-            <element signature="docComment;class#Comparator#0" />
-            <element signature="docComment;method#equals#0;class#Comparator#0" />
-            <element signature="docComment;method#reversed#0;class#Comparator#0" />
-            <element signature="docComment;method#thenComparing#0;class#Comparator#0" />
-            <element signature="method#thenComparing#0;class#Comparator#0" />
-            <element signature="e#9102#9225#0" />
-            <element signature="docComment;method#thenComparing#1;class#Comparator#0" />
-            <element signature="method#thenComparing#1;class#Comparator#0" />
-            <element signature="docComment;method#thenComparing#2;class#Comparator#0" />
-            <element signature="method#thenComparing#2;class#Comparator#0" />
-            <element signature="docComment;method#thenComparingInt#0;class#Comparator#0" />
-            <element signature="method#thenComparingInt#0;class#Comparator#0" />
-            <element signature="docComment;method#thenComparingLong#0;class#Comparator#0" />
-            <element signature="method#thenComparingLong#0;class#Comparator#0" />
-            <element signature="docComment;method#thenComparingDouble#0;class#Comparator#0" />
-            <element signature="method#thenComparingDouble#0;class#Comparator#0" />
-            <element signature="docComment;method#reverseOrder#0;class#Comparator#0" />
-            <element signature="docComment;method#naturalOrder#0;class#Comparator#0" />
-            <element signature="method#naturalOrder#0;class#Comparator#0" />
-            <element signature="docComment;method#nullsFirst#0;class#Comparator#0" />
-            <element signature="method#nullsFirst#0;class#Comparator#0" />
-            <element signature="docComment;method#nullsLast#0;class#Comparator#0" />
-            <element signature="method#nullsLast#0;class#Comparator#0" />
-            <element signature="docComment;method#comparing#0;class#Comparator#0" />
-            <element signature="method#comparing#0;class#Comparator#0" />
-            <element signature="docComment;method#comparing#1;class#Comparator#0" />
-            <element signature="method#comparing#1;class#Comparator#0" />
-            <element signature="docComment;method#comparingInt#0;class#Comparator#0" />
-            <element signature="method#comparingInt#0;class#Comparator#0" />
-            <element signature="docComment;method#comparingLong#0;class#Comparator#0" />
-            <element signature="method#comparingLong#0;class#Comparator#0" />
-            <element signature="docComment;method#comparingDouble#0;class#Comparator#0" />
-            <element signature="method#comparingDouble#0;class#Comparator#0" />
-          </folding>
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/40to49/_41_1_GetMedian.java">
+    <entry file="file://$PROJECT_DIR$/src/40to49/_45_PrintMinNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/JDK/JDK1.8/src.zip!/java/util/PriorityQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="146" column="11" selection-start-line="146" selection-start-column="11" selection-end-line="146" selection-end-column="11" />
-          <folding>
-            <element signature="e#5256#5257#0" expanded="true" />
-            <element signature="e#5314#5315#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/40to49/_41_2_FirstAppearingOnce.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        <state relative-caret-position="465">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
         </state>
       </provider>
     </entry>
