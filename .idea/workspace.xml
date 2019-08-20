@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="f91c54a8-dc01-4258-9f62-4f986dd51d56" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/_2_addTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/_2_addTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/_2_addTwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/_2_addTwoNumbers.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -34,37 +36,12 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/_2_addTwoNumbers.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/_5_longestPalindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="35" column="22" lean-forward="true" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/ListNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-              <folding>
-                <element signature="e#117#118#0" expanded="true" />
-                <element signature="e#144#145#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/_1_twoSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="196">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -98,9 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/10to19/_19_match.java" />
-        <option value="$PROJECT_DIR$/src/20to29/_20_isNumeric.java" />
-        <option value="$PROJECT_DIR$/src/20to29/_21_reOrderArray.java" />
         <option value="$PROJECT_DIR$/src/20to29/_22_FindKthToTail.java" />
         <option value="$PROJECT_DIR$/src/20to29/_23_EntryNodeOfLoop.java" />
         <option value="$PROJECT_DIR$/src/20to29/_24_ReverseList.java" />
@@ -149,6 +123,9 @@
         <option value="$PROJECT_DIR$/leetcode/src/main/java/_1_twoSum.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/ListNode.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/_2_addTwoNumbers.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/_3_lengthOfLongestSubstring.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/_4_findMedianSortedArrays.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/_5_longestPalindrome.java" />
       </list>
     </option>
   </component>
@@ -173,7 +150,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -212,6 +188,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -238,7 +215,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._2_addTwoNumbers">
+  <component name="RunManager" selected="Application._5_longestPalindrome">
     <configuration name="_1_twoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_1_twoSum" />
       <module name="leetcode" />
@@ -253,34 +230,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_45_PrintMinNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_45_PrintMinNumber" />
-      <module name="GetOffer" />
+    <configuration name="_3_lengthOfLongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_3_lengthOfLongestSubstring" />
+      <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_46_numDecodings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_46_numDecodings" />
-      <module name="GetOffer" />
+    <configuration name="_4_findMedianSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4_findMedianSortedArrays" />
+      <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
-      <module name="GetOffer" />
+    <configuration name="_5_longestPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_5_longestPalindrome" />
+      <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._5_longestPalindrome" />
+        <item itemvalue="Application._4_findMedianSortedArrays" />
+        <item itemvalue="Application._3_lengthOfLongestSubstring" />
         <item itemvalue="Application._2_addTwoNumbers" />
         <item itemvalue="Application._1_twoSum" />
-        <item itemvalue="Application._46_numDecodings" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application._45_PrintMinNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -322,23 +299,25 @@
       <workItem from="1566049009625" duration="1738000" />
       <workItem from="1566136911382" duration="584000" />
       <workItem from="1566178243886" duration="9469000" />
+      <workItem from="1566218399243" duration="5878000" />
+      <workItem from="1566287293025" duration="7852000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104924000" />
+    <option name="totallyTimeSpent" value="118654000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.269437" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.51724136" visible="true" weight="0.27680966" />
+      <window_info id="Structure" order="1" sideWeight="0.4827586" side_tool="true" weight="0.27680966" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23371105" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.36260623" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2592068" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.41218132" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -356,34 +335,8 @@
       <window_info anchor="right" id="Mybatis datasource" order="4" side_tool="true" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info anchor="right" id="Database" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.3297587" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2627346" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.16430596" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.509915" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
-      <window_info anchor="bottom" id="Duplicates" order="13" weight="0.5049505" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Mybatis datasource" order="4" side_tool="true" />
-      <window_info anchor="right" id="Palette&#9;" order="5" />
-      <window_info anchor="right" id="Database" order="6" weight="0.3297587" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -433,14 +386,11 @@
           <properties />
           <option name="timeStamp" value="37" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetcode/src/main/java/_2_addTwoNumbers.java</url>
-          <line>16</line>
-          <properties />
-          <option name="timeStamp" value="46" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GetOffer$_2_addTwoNumbers.ic" NAME="_2_addTwoNumbers Coverage Results" MODIFIED="1566223787833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
@@ -452,27 +402,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Sort/Shell.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/JDK/JDK1.8/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-67">
-          <caret line="453" column="23" selection-start-line="453" selection-start-column="23" selection-end-line="453" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sort/Insertion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Sort/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
@@ -582,59 +511,6 @@
             <element signature="imports" expanded="true" />
             <element signature="e#360#369#0" expanded="true" />
             <element signature="e#1718#1727#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/JDK/JDK1.8/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="109" column="4" lean-forward="true" selection-start-line="109" selection-start-column="4" selection-end-line="109" selection-end-column="4" />
-          <folding>
-            <element signature="docComment;class#Comparator#0" />
-            <element signature="docComment;method#equals#0;class#Comparator#0" />
-            <element signature="docComment;method#reversed#0;class#Comparator#0" />
-            <element signature="docComment;method#thenComparing#0;class#Comparator#0" />
-            <element signature="method#thenComparing#0;class#Comparator#0" />
-            <element signature="e#9102#9225#0" />
-            <element signature="docComment;method#thenComparing#1;class#Comparator#0" />
-            <element signature="method#thenComparing#1;class#Comparator#0" />
-            <element signature="docComment;method#thenComparing#2;class#Comparator#0" />
-            <element signature="method#thenComparing#2;class#Comparator#0" />
-            <element signature="docComment;method#thenComparingInt#0;class#Comparator#0" />
-            <element signature="method#thenComparingInt#0;class#Comparator#0" />
-            <element signature="docComment;method#thenComparingLong#0;class#Comparator#0" />
-            <element signature="method#thenComparingLong#0;class#Comparator#0" />
-            <element signature="docComment;method#thenComparingDouble#0;class#Comparator#0" />
-            <element signature="method#thenComparingDouble#0;class#Comparator#0" />
-            <element signature="docComment;method#reverseOrder#0;class#Comparator#0" />
-            <element signature="docComment;method#naturalOrder#0;class#Comparator#0" />
-            <element signature="method#naturalOrder#0;class#Comparator#0" />
-            <element signature="docComment;method#nullsFirst#0;class#Comparator#0" />
-            <element signature="method#nullsFirst#0;class#Comparator#0" />
-            <element signature="docComment;method#nullsLast#0;class#Comparator#0" />
-            <element signature="method#nullsLast#0;class#Comparator#0" />
-            <element signature="docComment;method#comparing#0;class#Comparator#0" />
-            <element signature="method#comparing#0;class#Comparator#0" />
-            <element signature="docComment;method#comparing#1;class#Comparator#0" />
-            <element signature="method#comparing#1;class#Comparator#0" />
-            <element signature="docComment;method#comparingInt#0;class#Comparator#0" />
-            <element signature="method#comparingInt#0;class#Comparator#0" />
-            <element signature="docComment;method#comparingLong#0;class#Comparator#0" />
-            <element signature="method#comparingLong#0;class#Comparator#0" />
-            <element signature="docComment;method#comparingDouble#0;class#Comparator#0" />
-            <element signature="method#comparingDouble#0;class#Comparator#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/JDK/JDK1.8/src.zip!/java/util/PriorityQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="146" column="11" selection-start-line="146" selection-start-column="11" selection-end-line="146" selection-end-column="11" />
-          <folding>
-            <element signature="e#5256#5257#0" expanded="true" />
-            <element signature="e#5314#5315#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1785,16 +1661,6 @@
     <entry file="file://$PROJECT_DIR$/leetcode/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/_1_twoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/JDK/JDK1.8/src.zip!/java/lang/AbstractStringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1871,17 +1737,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-          <folding>
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#144#145#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/JDK/JDK1.8/src.zip!/java/math/BigDecimal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -1891,8 +1746,107 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/_2_addTwoNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="35" column="22" lean-forward="true" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+        <state relative-caret-position="57">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/_3_lengthOfLongestSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="60" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#740#764#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#117#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/_1_twoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/JDK1.8/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="212" column="69" lean-forward="true" selection-start-line="212" selection-start-column="69" selection-end-line="212" selection-end-column="69" />
+          <folding>
+            <element signature="docComment;class#Comparator#0" />
+            <element signature="docComment;method#equals#0;class#Comparator#0" />
+            <element signature="docComment;method#reversed#0;class#Comparator#0" />
+            <element signature="docComment;method#thenComparing#0;class#Comparator#0" />
+            <element signature="e#9102#9225#0" />
+            <element signature="docComment;method#thenComparing#1;class#Comparator#0" />
+            <element signature="method#thenComparing#1;class#Comparator#0" />
+            <element signature="docComment;method#thenComparing#2;class#Comparator#0" />
+            <element signature="method#thenComparing#2;class#Comparator#0" />
+            <element signature="docComment;method#thenComparingInt#0;class#Comparator#0" />
+            <element signature="method#thenComparingInt#0;class#Comparator#0" />
+            <element signature="docComment;method#thenComparingLong#0;class#Comparator#0" />
+            <element signature="method#thenComparingLong#0;class#Comparator#0" />
+            <element signature="docComment;method#thenComparingDouble#0;class#Comparator#0" />
+            <element signature="method#thenComparingDouble#0;class#Comparator#0" />
+            <element signature="docComment;method#reverseOrder#0;class#Comparator#0" />
+            <element signature="docComment;method#naturalOrder#0;class#Comparator#0" />
+            <element signature="method#naturalOrder#0;class#Comparator#0" />
+            <element signature="docComment;method#nullsFirst#0;class#Comparator#0" />
+            <element signature="method#nullsFirst#0;class#Comparator#0" />
+            <element signature="docComment;method#nullsLast#0;class#Comparator#0" />
+            <element signature="method#nullsLast#0;class#Comparator#0" />
+            <element signature="docComment;method#comparing#0;class#Comparator#0" />
+            <element signature="method#comparing#0;class#Comparator#0" />
+            <element signature="docComment;method#comparing#1;class#Comparator#0" />
+            <element signature="method#comparing#1;class#Comparator#0" />
+            <element signature="docComment;method#comparingInt#0;class#Comparator#0" />
+            <element signature="method#comparingInt#0;class#Comparator#0" />
+            <element signature="docComment;method#comparingLong#0;class#Comparator#0" />
+            <element signature="method#comparingLong#0;class#Comparator#0" />
+            <element signature="docComment;method#comparingDouble#0;class#Comparator#0" />
+            <element signature="method#comparingDouble#0;class#Comparator#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/JDK1.8/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="81" column="13" selection-start-line="81" selection-start-column="13" selection-end-line="81" selection-end-column="13" />
+          <folding>
+            <element signature="e#5256#5257#0" expanded="true" />
+            <element signature="e#5314#5315#0" expanded="true" />
+            <element signature="e#12969#12970#0" expanded="true" />
+            <element signature="e#13025#13026#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/_4_findMedianSortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="52" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/_5_longestPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
