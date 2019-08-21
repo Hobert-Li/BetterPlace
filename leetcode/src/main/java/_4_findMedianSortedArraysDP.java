@@ -15,7 +15,7 @@ import java.util.PriorityQueue;
  * @create 2019/8/20 16:30
  */
 
-public class _4_findMedianSortedArrays {
+public class _4_findMedianSortedArraysDP {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         PriorityQueue<Integer> right = new PriorityQueue<>();//小顶堆
         PriorityQueue<Integer> left = new PriorityQueue<>((o1, o2) -> o2 - o1);//大顶堆
@@ -54,7 +54,7 @@ public class _4_findMedianSortedArrays {
     }
 
     public static void main(String[] args) {
-        _4_findMedianSortedArrays solution = new _4_findMedianSortedArrays();
+        _4_findMedianSortedArraysDP solution = new _4_findMedianSortedArraysDP();
         int[] nums1 = {1,3};
         int[] nums2 = {2};
         double ret = solution.findMedianSortedArrays(nums1,nums2);
