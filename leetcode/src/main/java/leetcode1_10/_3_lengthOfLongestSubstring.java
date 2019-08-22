@@ -1,4 +1,5 @@
-import java.util.ArrayList;
+package leetcode1_10;
+
 import java.util.HashMap;
 import java.util.Map;
 

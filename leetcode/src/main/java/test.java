@@ -9,13 +9,19 @@
 
 public class test {
     public static void main(String[] args) {
+        Thread thread = new Thread(new Runnable() {
+            @Override
+            public void run() {
+                System.out.println(1);
+            }
+        });
+        thread.start();
+        thread.start();
 
-        char i = 'A';
         try {
-            int tStart = Integer.valueOf(""+i);
-            System.out.println(tStart);
-        } catch (Exception e) {
-            e.printStackTrace();
+            Thread.currentThread().wait(3000);
+        } catch (InterruptedException e) {
+            System.out.println("出错");
         }
     }
 }

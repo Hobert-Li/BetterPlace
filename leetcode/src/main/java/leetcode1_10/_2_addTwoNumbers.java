@@ -1,4 +1,6 @@
-import java.math.BigDecimal;
+package leetcode1_10;
+
+import common.ListNode;
 
 /**
  * <p>题目名字： 2.两数相加</p>

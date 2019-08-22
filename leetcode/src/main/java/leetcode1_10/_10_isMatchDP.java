@@ -1,3 +1,5 @@
+package leetcode1_10;
+
 /**
  * <p>题目名字： 10. 正则表达式匹配</p>
  * <p>题目描述： 给你一个字符串 s 和一个字符规律 p，请你来实现一个支持 '.' 和 '*' 的正则表达式匹配。</p>
@@ -46,6 +48,7 @@
  * @create 2019/8/21 18:21
  */
 
+//？
 public class _10_isMatchDP {
     public boolean isMatch(String s, String p) {
         boolean[][] dp = new boolean[s.length()+1][p.length()+1];
@@ -53,11 +56,14 @@ public class _10_isMatchDP {
 
         for (int i = s.length(); i >= 0; i--) {
             for (int j = p.length() - 1; j >= 0 ; j--) {
+                char pj = p.charAt(j);
+                char sj = s.charAt(j);
+
                 boolean first_match = (i < s.length() &&
-                        (p.charAt(j) == s.charAt(j) || p.charAt(j) == '.') );
+                        (pj == sj || pj == '.') );
 
                 if (j + 1 < p.length() && p.charAt(j+1) == '*') {
-                    dp[i][j] = dp[i][j+2] || first_match && dp[i+1][j];//???
+                    dp[i][j] = dp[i][j+2] || (first_match && dp[i+1][j]);//先与后或
                 } else {
                     dp[i][j] = first_match && dp[i+1][j+1];
                 }

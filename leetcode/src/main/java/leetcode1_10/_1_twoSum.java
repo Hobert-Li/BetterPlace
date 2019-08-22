@@ -1,5 +1,4 @@
-import java.util.Arrays;
-import java.util.List;
+package leetcode1_10;
 
 /**
  * <p>题目名字： 1.两数之和</p>
