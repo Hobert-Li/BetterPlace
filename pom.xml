@@ -22,6 +22,7 @@
     </build>
     <modules>
         <module>leetcode</module>
+        <module>tear</module>
     </modules>
 
 

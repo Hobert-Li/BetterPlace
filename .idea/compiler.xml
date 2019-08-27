@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="NTES" />
         <module name="leetcode" />
+        <module name="NTES" />
+        <module name="tear" />
       </profile>
     </annotationProcessing>
   </component>
