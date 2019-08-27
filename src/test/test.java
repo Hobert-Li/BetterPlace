@@ -21,23 +21,23 @@ public class test {
         return nextHashCode.getAndAdd(HASH_INCREMENT);
     }
 
-    public static void main(String[] args) {
-        test t1 = new test();
-        test t2 = new test();
-        test t3 = new test();
-        test t4 = new test();
-
-
-
-        int i = t1.threadLocalHashCode;
-        System.out.println(i);
-        i = t2.threadLocalHashCode;
-        System.out.println(i);
-        i = t3.threadLocalHashCode;
-        System.out.println(i);
-        i = t4.threadLocalHashCode;
-        System.out.println(i);
-
-        }
+//    public static void main(String[] args) {
+//        LRU_1.test t1 = new LRU_1.test();
+//        LRU_1.test t2 = new LRU_1.test();
+//        LRU_1.test t3 = new LRU_1.test();
+//        LRU_1.test t4 = new LRU_1.test();
+//
+//
+//
+//        int i = t1.threadLocalHashCode;
+//        System.out.println(i);
+//        i = t2.threadLocalHashCode;
+//        System.out.println(i);
+//        i = t3.threadLocalHashCode;
+//        System.out.println(i);
+//        i = t4.threadLocalHashCode;
+//        System.out.println(i);
+//
+//        }
     }
 
