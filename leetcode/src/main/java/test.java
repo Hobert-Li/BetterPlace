@@ -9,19 +9,10 @@
 
 public class test {
     public static void main(String[] args) {
-        Thread thread = new Thread(new Runnable() {
-            @Override
-            public void run() {
-                System.out.println(1);
-            }
-        });
-        thread.start();
-        thread.start();
-
-        try {
-            Thread.currentThread().wait(3000);
-        } catch (InterruptedException e) {
-            System.out.println("出错");
-        }
+        String s1 = "a";
+        String s2 = "b";
+        String s3 = "a" + "b";
+        String s4 = s1 + s2;
+        System.out.println(s1 + s2 == s3);
     }
 }
