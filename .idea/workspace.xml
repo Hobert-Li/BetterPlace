@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f91c54a8-dc01-4258-9f62-4f986dd51d56" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/Classic/DoublePointer/_2_leetcode633_judgeSquareSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/Classic/DoublePointer/_2_leetcode633_judgeSquareSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/Classic/DoublePointer/_2_leetcode633_judgeSquareSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/Classic/DoublePointer/_2_leetcode633_judgeSquareSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/test$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/test.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -39,20 +34,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/Classic/Tree/Recursion/_1_leetcode104_maxDepth.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/Classic/Tree/Recursion/_2_leetcode110_isBalanced.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/Classic/Tree/Recursion/_7_leetcode437_pathSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+            <state relative-caret-position="468">
+              <caret line="31" column="19" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -87,11 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/_7_reverse.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/_8_myAtoi.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/_9_isPalindrome.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/_4_findMedianSortedArrays.java" />
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/_4_findMedianSortedArraysDP.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/_10_isMatch.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/_10_isMatchDP.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/leetcode11_20/_11_.java" />
@@ -138,6 +119,11 @@
         <option value="$PROJECT_DIR$/leetcode/src/main/java/common/TreeNode.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/Classic/Tree/Recursion/_1_leetcode104_maxDepth.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/Classic/Tree/Recursion/_2_leetcode110_isBalanced.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/Classic/Tree/Recursion/_3_leetcode543_diameterOfBinaryTree.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/Classic/Tree/Recursion/_4_leetcode226_invertTree.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/Classic/Tree/Recursion/_5_leetcode617_mergeTrees.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/Classic/Tree/Recursion/_6_leetcode112_hasPathSum.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/Classic/Tree/Recursion/_7_leetcode437_pathSum.java" />
       </list>
     </option>
   </component>
@@ -148,7 +134,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1940" />
@@ -260,7 +246,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._2_leetcode110_isBalanced">
+  <component name="RunManager" selected="Application._6_leetcode112_hasPathSum">
     <configuration name="_1_leetcode104_maxDepth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Classic.Tree.Recursion._1_leetcode104_maxDepth" />
       <module name="leetcode" />
@@ -287,8 +273,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_3_leetcode345_reverseVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Classic.DoublePointer._3_leetcode345_reverseVowels" />
+    <configuration name="_4_leetcode680_validPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Classic.DoublePointer._4_leetcode680_validPalindrome" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -300,12 +286,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_4_leetcode680_validPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Classic.DoublePointer._4_leetcode680_validPalindrome" />
+    <configuration name="_6_leetcode112_hasPathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Classic.Tree.Recursion._6_leetcode112_hasPathSum" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Classic.DoublePointer.*" />
+          <option name="PATTERN" value="Classic.Tree.Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -322,11 +308,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._6_leetcode112_hasPathSum" />
         <item itemvalue="Application._2_leetcode110_isBalanced" />
         <item itemvalue="Application._1_leetcode104_maxDepth" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application._4_leetcode680_validPalindrome" />
-        <item itemvalue="Application._3_leetcode345_reverseVowels" />
       </list>
     </recent_temporary>
   </component>
@@ -387,24 +373,24 @@
       <workItem from="1566955790299" duration="6674000" />
       <workItem from="1566969204677" duration="29000" />
       <workItem from="1566978278175" duration="4442000" />
-      <workItem from="1566991335794" duration="68000" />
+      <workItem from="1566991335794" duration="3236000" />
+      <workItem from="1567042660622" duration="6378000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="181537000" />
+    <option name="totallyTimeSpent" value="191083000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.51724136" visible="true" weight="0.23994638" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.51724136" visible="true" weight="0.24329759" />
       <window_info id="Structure" order="1" sideWeight="0.4827586" side_tool="true" weight="0.27680966" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29461756" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26062322" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.49858356" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -554,45 +540,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/JDK/JDK1.8/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="643" column="16" selection-start-line="643" selection-start-column="16" selection-end-line="643" selection-end-column="16" />
-          <folding>
-            <element signature="e#66121#66122#0" expanded="true" />
-            <element signature="e#66159#66160#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/leetcode11_20/_13_romanToInt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="18" column="2" lean-forward="true" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/leetcode11_20/_14_longestCommonPrefix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/JDK/JDK1.8/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="237" column="12" selection-start-line="237" selection-start-column="12" selection-end-line="237" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/leetcode11_20/_15_threeSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="969">
@@ -1468,6 +1415,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/Classic/Tree/Recursion/_3_leetcode543_diameterOfBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/Classic/Tree/Recursion/_4_leetcode226_invertTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/Classic/Tree/Recursion/_5_leetcode617_mergeTrees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/Classic/Tree/Recursion/_6_leetcode112_hasPathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/Classic/Tree/Recursion/_7_leetcode437_pathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="31" column="19" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
         </state>
       </provider>
     </entry>
