@@ -30,4 +30,24 @@ public class TreeNode {
         buildTree(root.right, depth);
         return root;
     }
+
+    public static TreeNode buildTreeByNums(Integer[] nums) {
+        return buildTreeByNums(nums, 0);
+    }
+
+    private static TreeNode buildTreeByNums(Integer[] nums, int i) {
+        TreeNode node = null;
+        if (i < nums.length) {
+            Integer value = nums[i];
+            if (value == null) {
+                return null;
+            }
+
+            node = new TreeNode(value);
+            node.left = buildTreeByNums(nums, 2 * i + 1);
+            node.right = buildTreeByNums(nums, 2 * i + 2);
+            return node;
+        }
+        return null;
+    }
 }
