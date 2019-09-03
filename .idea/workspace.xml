@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f91c54a8-dc01-4258-9f62-4f986dd51d56" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/common/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/common/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/common/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/common/TreeNode.class" afterDir="false" />
-    </list>
+    <list default="true" id="f91c54a8-dc01-4258-9f62-4f986dd51d56" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/../NTES/target/" />
@@ -35,7 +31,17 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/Classic/Tree/Recursion/_12_leetcode687_longestUnivaluePath.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="603">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -65,7 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/leetcode1_10/_2_addTwoNumbers.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/common/ListNode.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/leetcode11_20/_12_intToRoman.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/leetcode11_20/_13_romanToInt.java" />
@@ -116,6 +121,7 @@
         <option value="$PROJECT_DIR$/leetcode/src/main/java/Classic/Tree/Recursion/_10_leetcode111_minDepth.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/common/TreeNode.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/Classic/Tree/Recursion/_11_leetcode404_sumOfLeftLeaves.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/Classic/Tree/Recursion/_12_leetcode687_longestUnivaluePath.java" />
       </list>
     </option>
   </component>
@@ -142,7 +148,62 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GetOffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GetOffer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GetOffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GetOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GetOffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GetOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GetOffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GetOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GetOffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GetOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GetOffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GetOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Classic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GetOffer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GetOffer" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Classic" type="462c0819:PsiDirectoryNode" />
+              <item name="Recursion" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -174,9 +235,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._11_leetcode404_sumOfLeftLeaves">
+  <component name="RunManager" selected="Application._12_leetcode687_longestUnivaluePath">
     <configuration name="_11_leetcode404_sumOfLeftLeaves" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Classic.Tree.Recursion._11_leetcode404_sumOfLeftLeaves" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Classic.Tree.Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_12_leetcode687_longestUnivaluePath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Classic.Tree.Recursion._12_leetcode687_longestUnivaluePath" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -227,20 +301,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._12_leetcode687_longestUnivaluePath" />
         <item itemvalue="Application._11_leetcode404_sumOfLeftLeaves" />
         <item itemvalue="Application._6_leetcode112_hasPathSum" />
         <item itemvalue="Application._2_leetcode110_isBalanced" />
         <item itemvalue="Application._1_leetcode104_maxDepth" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -309,17 +376,17 @@
       <workItem from="1567310023169" duration="3702000" />
       <workItem from="1567332032419" duration="2419000" />
       <workItem from="1567338451625" duration="13000" />
-      <workItem from="1567474504577" duration="599000" />
+      <workItem from="1567474504577" duration="3318000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="199167000" />
+    <option name="totallyTimeSpent" value="201886000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.51724136" visible="true" weight="0.26675603" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.51724136" visible="true" weight="0.26675603" />
       <window_info id="Structure" order="1" sideWeight="0.4827586" side_tool="true" weight="0.27680966" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -475,13 +542,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Singleton/_5_.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Singleton/_6_.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -1379,6 +1439,13 @@
             <element signature="e#267#268#0" expanded="true" />
             <element signature="e#708#709#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/Classic/Tree/Recursion/_12_leetcode687_longestUnivaluePath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
