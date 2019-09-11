@@ -6,10 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="leetcode" />
-        <module name="NTES" />
-        <module name="tear" />
+        <module name="Familiar" />
+        <module name="LeetCode" />
+        <module name="SwordToOffer" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Familiar" target="7" />
+      <module name="LeetCode" target="8" />
+      <module name="SwordToOffer" target="7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
