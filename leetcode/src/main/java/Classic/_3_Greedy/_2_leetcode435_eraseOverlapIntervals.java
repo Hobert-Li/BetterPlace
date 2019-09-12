@@ -18,6 +18,9 @@ import java.util.Comparator;
 public class _2_leetcode435_eraseOverlapIntervals {
 
     public int eraseOverlapIntervals(int[][] intervals) {
+        if (intervals.length == 0) {
+            return 0;
+        }
         Arrays.sort(intervals, new Comparator<int[]>() {
             @Override
             public int compare(int[] o1, int[] o2) {
@@ -25,14 +28,22 @@ public class _2_leetcode435_eraseOverlapIntervals {
             }
         });
 
-        System.out.println(JSON.toJSONString(intervals));
+        int t = 1;
+        int end = intervals[0][1];
+        for (int i = 0; i < intervals.length; i++) {
+            if (intervals[i][0] >= end) {
+                end = intervals[i][1];
+                t++;
+            }
+        }
 
-        return 0;
+        return intervals.length - t;
     }
 
     public static void main(String[] args) {
         _2_leetcode435_eraseOverlapIntervals solution = new _2_leetcode435_eraseOverlapIntervals();
-        int[][] intervals = {{1,2}, {2,3}, {3,4}, {1,3}};
-        solution.eraseOverlapIntervals(intervals);
+        //int[][] intervals = {{1,2}, {2,3}, {3,4}, {1,3}};
+        int[][] intervals = {{1,2}, {1,2}, {1,2}, {1,2}};
+        System.out.println(solution.eraseOverlapIntervals(intervals));
     }
 }
