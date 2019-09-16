@@ -15,13 +15,16 @@ public class _3_leetcode540_singleNonDuplicate {
         int h = nums.length - 1;
         while (l < h) {
             int m = l + (h - l) / 2;
+            if (m % 2 == 1) {
+                m--;
+            }
             if (nums[m] == nums[m + 1]) {
-                l = m + 1;
-            } else if (nums[m] == nums[m - 1]) {
-                h = m - 1;
+                l = m + 2;
+            } else {
+                h = m;
             }
         }
-        return nums[h];
+        return nums[l];
     }
 
     public static void main(String[] args) {
