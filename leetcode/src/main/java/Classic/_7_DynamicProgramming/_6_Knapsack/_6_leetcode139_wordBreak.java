@@ -12,18 +12,23 @@ import java.util.*;
 
 
 public class _6_leetcode139_wordBreak {
-    static HashSet<String> set = null;
-
     public boolean wordBreak(String s, List<String> wordDict) {
-        set = new HashSet<>(wordDict);
-
-        return true;
+        boolean[] dp = new boolean[s.length() + 1];
+        dp[0] = true;
+        for (int i = 1; i <= s.length(); i++) {
+            for (String t : wordDict) {
+                if (t.length() <= i && t.equals(s.substring(i - t.length(), i))) {
+                    dp[i] = dp[i] || dp[i - t.length()];
+                }
+            }
+        }
+        return dp[s.length()];
     }
 
     public static void main(String[] args) {
         _6_leetcode139_wordBreak solution = new _6_leetcode139_wordBreak();
         String s = "applepenapple";
-        List<String> wordDict = new ArrayList<String>(Arrays.asList(new String[]{"apple", "pen"}));
+        List<String> wordDict = new ArrayList<String>(Arrays.asList("apple", "pen"));
         System.out.println(solution.wordBreak(s, wordDict));
     }
 }
