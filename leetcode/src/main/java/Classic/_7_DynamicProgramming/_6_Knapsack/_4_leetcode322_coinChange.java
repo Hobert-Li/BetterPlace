@@ -10,7 +10,7 @@ import java.util.Arrays;
  * @create 2019/9/18 17:36
  */
 
-//CYC题解有问题，暂未提交
+//已提交cyc
 public class _4_leetcode322_coinChange {
     public int coinChange(int[] coins, int amount) {
         int[] dp = new int[amount + 1];
