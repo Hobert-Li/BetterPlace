@@ -19,19 +19,19 @@ import static Sort.bubbleSort.swap;
 public class quickSort {
     public static void quickSort(int[] nums) {
         nums = shuffle(nums);
-        quickSort(nums, 0, nums.length -1);
+        quickSort(nums, 0, nums.length - 1);
     }
 
     private static void quickSort(int[] nums, int l, int h) {
         if (h <= l) {
             return;
         }
-        int j = partition(nums, l, h);
+        int j = patition(nums, l, h);
         quickSort(nums, l, j - 1);
         quickSort(nums, j + 1, h);
     }
 
-    private static int partition(int[] nums, int l, int h) {
+    private static int patition(int[] nums, int l, int h) {
         int i = l;
         int j = h + 1;
         int s = nums[l];
@@ -58,6 +58,7 @@ public class quickSort {
         }
         return nums;
     }
+
 
     public static void main(String[] args) {
         int[] nums = {1,2,3,4,6,6,8,9};
