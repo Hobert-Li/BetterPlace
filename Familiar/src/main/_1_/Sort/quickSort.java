@@ -12,7 +12,7 @@ import static Sort.bubbleSort.swap;
  *
  * @author 李宏博
  * @version 1.0
- * @create 2019/10/6 19:50
+ * @create 2019/10/10 13:56
  */
 
 
@@ -26,12 +26,12 @@ public class quickSort {
         if (h <= l) {
             return;
         }
-        int j = patition(nums, l, h);
+        int j = partition(nums, l, h);
         quickSort(nums, l, j - 1);
         quickSort(nums, j + 1, h);
     }
 
-    private static int patition(int[] nums, int l, int h) {
+    private static int partition(int[] nums, int l, int h) {
         int i = l;
         int j = h + 1;
         int s = nums[l];
@@ -43,7 +43,7 @@ public class quickSort {
             }
             swap(nums, i, j);
         }
-        swap(nums, l, j);
+        swap(nums, j, l);
         return j;
     }
 
@@ -59,9 +59,8 @@ public class quickSort {
         return nums;
     }
 
-
     public static void main(String[] args) {
-        int[] nums = {1,2,3,4,6,6,8,9};
+        int[] nums = {9,6,5,8,7,4,2,1,3};
         quickSort(nums);
         System.out.println(Arrays.toString(nums));
     }
