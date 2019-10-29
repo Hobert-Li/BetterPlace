@@ -7,7 +7,7 @@ import java.util.Arrays;
  *
  * @author 李宏博
  * @version 1.0
- * @create 2019/10/10 13:51
+ * @create 2019/10/23 17:42
  */
 
 
@@ -34,21 +34,22 @@ public class mergeSort {
         for (int k = l; k <= h; k++) {
             aux[k] = nums[k];
         }
+
         for (int k = l; k <= h; k++) {
             if (i > m) {
                 nums[k] = aux[j++];
             } else if (j > h) {
                 nums[k] = aux[i++];
-            } else if (aux[j] > aux[i]) {
-                nums[k] = aux[i++];
-            } else {
+            } else if (aux[i] > aux[j]) {
                 nums[k] = aux[j++];
+            } else {
+                nums[k] = aux[i++];
             }
         }
     }
 
     public static void main(String[] args) {
-        int[] nums = {9,6,5,8,7,4,2,1,3};
+        int[] nums = {6,7,9,3,2,4,5,1,8};
         mergeSort(nums);
         System.out.println(Arrays.toString(nums));
     }

@@ -9,7 +9,7 @@ import static Sort.bubbleSort.swap;
  *
  * @author 李宏博
  * @version 1.0
- * @create 2019/10/10 14:01
+ * @create 2019/10/23 18:03
  */
 
 
@@ -17,15 +17,16 @@ public class heapSort {
     public static void heapSort(int[] nums) {
         int n = nums.length;
         for (int i = (n - 1) / 2; i >= 0; i--) {
-            sink(nums, i, n);
+            sink(nums, n, i);
         }
-        for (int i = n - 1; i >  0; i--) {
-            swap(nums, i, 0);
-            sink(nums, 0, i);
+
+        for (int i = n - 1; i > 0; i--) {
+            swap(nums, 0, i);
+            sink(nums, i, 0);
         }
     }
 
-    private static void sink(int[] nums, int i, int n) {
+    private static void sink(int[] nums, int n, int i) {
         while (2 * i + 1 < n) {
             int j = 2 * i + 1;
             if (j + 1 < n && nums[j + 1] > nums[j]) {
@@ -40,7 +41,7 @@ public class heapSort {
     }
 
     public static void main(String[] args) {
-        int[] nums = {9,6,5,8,7,4,2,1,3};
+        int[] nums = {6,7,9,3,2,4,5,1,8};
         heapSort(nums);
         System.out.println(Arrays.toString(nums));
     }
