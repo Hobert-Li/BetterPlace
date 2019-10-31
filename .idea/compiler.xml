@@ -12,8 +12,6 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="ClassLoader_Analyze" target="1.5" />
-      <module name="ClassLoaderAnalyze" target="1.7" />
       <module name="Familiar" target="7" />
       <module name="LeetCode" target="8" />
       <module name="SwordToOffer" target="7" />
